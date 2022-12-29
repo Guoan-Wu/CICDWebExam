@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDWebExam", "CICDWebExam\CICDWebExam.csproj", "{045FABDA-B679-4947-98DF-BB7BF99A34E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{DF07E179-8121-4808-84D4-7AEFE5F26095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{045FABDA-B679-4947-98DF-BB7BF99A34E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045FABDA-B679-4947-98DF-BB7BF99A34E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045FABDA-B679-4947-98DF-BB7BF99A34E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF07E179-8121-4808-84D4-7AEFE5F26095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF07E179-8121-4808-84D4-7AEFE5F26095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF07E179-8121-4808-84D4-7AEFE5F26095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF07E179-8121-4808-84D4-7AEFE5F26095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
